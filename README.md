@@ -104,7 +104,7 @@ These insights can help businesses improve:
 
 ### Clone Repository
 ```bash
-git clone <repository_link>
+git clone https://github.com/pulkitmehta16/Customer-behavior-analysis
 cd project-folder
 ```
 
